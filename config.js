@@ -10,17 +10,17 @@ global.email = 'xheikhsalman4422@gmail.com'
 global.github = 'https://github.com/salmanytofficial/XLICON-MD'
 global.location = 'Lahore Pak'
 global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
-global.sudo = process.env.SUDO || '923184070915' 
+global.sudo = process.env.SUDO || '2349060509982' 
 global.devs = '923184070915';
 global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  'XLICON BOT',
-  packname:  process.env.PACK_NAME || 'MADE BY SALMAN AHMAD',
+  packname:  process.env.PACK_NAME || 'MADE BY Outlaw',
   
   botname:   process.env.BOT_NAME === undefined ? "Xlicon-Md" : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'salmanytofficial' : process.env.OWNER_NAME,  
+  ownername: process.env.OWNER_NAME === undefined ? 'Tenken' : process.env.OWNER_NAME,  
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
